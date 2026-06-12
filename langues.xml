@@ -1,0 +1,405 @@
+<?xml version='1.0' standalone='yes'?>
+<langues>
+<outgame>
+<STAR_GAME_RETURN>STAR GAME RETURN</STAR_GAME_RETURN>
+<STAR_GAME_RETURN_Min>Star Game Return</STAR_GAME_RETURN_Min>
+<STAR_GAME_RETURN_Titre>STAR GAME RETURN</STAR_GAME_RETURN_Titre>
+<SGR_SLOGAN>Jeu par navigateur gratuit basé sur la conquête de l'espace</SGR_SLOGAN>
+<SGR_GLYPH_HAUT_OG>STAR GAME RETURN EST UN JEU SPATIAL PAR NAVIGATEUR</SGR_GLYPH_HAUT_OG>
+<SGR_GLYPH_BAS_OG>STAR GAME RETURN JEU PAR NAVIGATEUR GRATUIT</SGR_GLYPH_BAS_OG>
+</outgame>
+<menu>
+<GLYPH_IG_HAUT>STARGAME RETURN JEU SPATIAL NAVIGATEUR</GLYPH_IG_HAUT>
+<GLYPH_IG_BAS>JEU PAR NAVIGATEUR GRATUIT SPATIAL</GLYPH_IG_BAS>
+<COMMANDEMENT>Controle</COMMANDEMENT>
+<UNIVERS>Univers</UNIVERS>
+<SALLE_DE_CONTROLE>Salle de Contrôle</SALLE_DE_CONTROLE>
+<CAPTEURS>Capteur Interstellaire</CAPTEURS>
+<TOUR_DE_CONTROLE>Contrôle Aérospatial</TOUR_DE_CONTROLE>
+<PORTE_DES_ETOILES>Portail Spatial</PORTE_DES_ETOILES>
+<TEMPLE_DE_DAKARA>Temple de Dakara</TEMPLE_DE_DAKARA>
+<TECHNOLOGIES>Pré-requis</TECHNOLOGIES>
+<GESTION>Gestion</GESTION>
+<TECH_OBJ_RARES><![CDATA[Tech & Objets Rares]]></TECH_OBJ_RARES>
+<PRODUCTION>Production</PRODUCTION>
+<BATIMENTS>Bâtiments</BATIMENTS>
+<LABO>Laboratoire</LABO>
+<CHANTIER_SPATIAL>Chantier Spatial</CHANTIER_SPATIAL>
+<CENTRE_DE_DEFENSE>Centre de Défense</CENTRE_DE_DEFENSE>
+<CHANTIER_SPE>Chantier Spécialisé</CHANTIER_SPE>
+<GALAXIE>Galaxie</GALAXIE>
+<COMMERCE>Commerce</COMMERCE>
+<ALLIANCE>Alliance</ALLIANCE>
+<RECHERCHER>Rechercher</RECHERCHER>
+<STATISTIQUE>Statistiques</STATISTIQUE>
+<JOUEUR>Joueur</JOUEUR>
+<MESSAGERIE>Messagerie</MESSAGERIE>
+<OPTIONS>Options</OPTIONS>
+<BLOCNOTE>Bloc Notes</BLOCNOTE>
+<AMIS>Listes des amis</AMIS>
+<FAVORIS>Favoris</FAVORIS>
+<FORUM>Forum</FORUM>
+<GUIDE>Guide</GUIDE>
+<CONTACT>Contact</CONTACT>
+<DECONNECTION>Déconnexion</DECONNECTION>
+</menu>
+<porte>
+<PORTE_ETOILES><![CDATA[<b>Portail spatial : </b><br /><br />Le Portail Spatial est considéré, par beaucoup de peuple, comme la plus grande invention connue. <br /><br />Il a été bâti par les Grands Sages, un groupe d'esprits exceptionnellement brillant de la Grande Coalition. <br />Il est constitué d'une grand plateforme générant un champ quantique qui permet de relier deux points de <br />l'univers et de pouvoir voyager instantanément d'un Portail à l'autre.
+<br /><br />L'univers est découpé suivant une carte très précise et chaque portail possède ses propres coordonnées données <br /> par 10 symboles qui sont à entrer sur un tableau de commande afin de relier deux portails.
+<br /><br />Le portail spatial est une technologie indispensable à tout Empire : permettant différentes missions, aussi bien <br />économique (commerce) que militaire (transport de troupes et attaques), il vous faudra apprendre à l'utiliser au plus vite.]]></PORTE_ETOILES>
+<PLANETE_A_IRIS>La planète visée possède un verrou magnétique, la mission a donc été annulée.</PLANETE_A_IRIS>
+<BLOCKAGE_IRIS2>Heureusement, ils ont tous été bloqués par un verrou magnétique.</BLOCKAGE_IRIS2>
+</porte>
+<ressource>
+<FER>Fer</FER>
+<DE_FER>de Fer</DE_FER>
+<NAQUA>OR</NAQUA>
+<DE_ORR>d'Or</DE_ORR>
+<CRISTAL>Cristal</CRISTAL>
+<DE_CRISTAL>de Cristal</DE_CRISTAL>
+<NAQUA>Hydrogène</NAQUA>
+<DE_NAQUA>d'Hydrogène</DE_NAQUA>
+</ressource>
+<batiments>
+<CONSO_NAQUA>Consommation d'hydrogène par heure</CONSO_NAQUA>
+<MINE_DE_FER>Mine de Fer</MINE_DE_FER>
+<EXTR_DE_FER>Centre d'extraction de Fer</EXTR_DE_FER>
+<MINE_OR>Mine d'Or</MINE_OR>
+<EXTR_OR>Centre d'extraction de l'Or</EXTR_OR>
+<MINE_CRISTAL>Mine de Cristal</MINE_CRISTAL>
+<AMBASSADE>Ambassade</AMBASSADE>
+<MINE_NAQUADA>Extracteur d'hydrogène</MINE_NAQUADA>
+<CENTRALE_ENERGIE_THERMIQUE>Centrale Thermique</CENTRALE_ENERGIE_THERMIQUE>
+<CENTRALE_ENERGIE_NAQUADA>Réacteur Thermonucléaire</CENTRALE_ENERGIE_NAQUADA>
+<CENTRALE_HYDROLIQUE>Centrale Hydraulique</CENTRALE_HYDROLIQUE>
+<CENTRALE_ENERGIE_SOLAIRE>Centrale à énergie solaire</CENTRALE_ENERGIE_SOLAIRE>
+<CASERNE>Caserne Militaire</CASERNE>
+<UNITE_EXPLORATION>Usine d'unités d'explorations</UNITE_EXPLORATION>
+<CHANTIER>Chantier Spatial</CHANTIER>
+<RESERVE_FER>Entrepôt de Fer</RESERVE_FER>
+<RESERVE_OR>Entrepôt d'Or</RESERVE_OR>
+<RESERVE_CRISTAL>Entrepôt de Cristal</RESERVE_CRISTAL>
+<RESERVE_NAQUADA>Silo à hydrogène</RESERVE_NAQUADA>
+<BUNKER_RESSOURCES_AVANCE>Bunker Amélioré</BUNKER_RESSOURCES_AVANCE>
+<BUNKER_RESSOURCES>Bunker</BUNKER_RESSOURCES>
+<CENTRE_DEF>Centre de Défense</CENTRE_DEF>
+<COMPLEX_MILI>Complexe Militaire</COMPLEX_MILI>
+<AVANT_POSTE>Avant-Poste de Défense</AVANT_POSTE>
+<PLATE_FORME>Plate-forme Spatiale</PLATE_FORME>
+<CTR_EXPLOITATION>Usine Robotique</CTR_EXPLOITATION>
+<SIEGE_DES_ANCIENS>Département de Contrôle Psychique</SIEGE_DES_ANCIENS>
+<LABO_SCIENTIFIQUE>Laboratoire Scientifique</LABO_SCIENTIFIQUE>
+<ZONE_51>Zone 51</ZONE_51>
+<TERRAFORMEUR>Chantier de Terraformation</TERRAFORMEUR>
+<DES_MINE_DE_FER><![CDATA[Le fer est une ressource présente en grande quantité sur toutes les planètes. C'est aussi la matière première la plus utilisée. En effet, le fer est utile partout dans le développement des planètes.]]></DES_MINE_DE_FER>
+<DES_MINE_DE_FER2><![CDATA[Le fer est une ressource présente en grande quantité sur toutes les planètes. C'est aussi la matière première la plus utilisée. En effet, le fer est utile partout dans le développement des planètes. Utile dans un premier temps pour la construction des bâtiments rudimentaires, le fer s'avérera utile ensuite pour le développement des technologies, mais aussi pour la construction de vaisseaux. Développer les mines de fer est donc primordial pour tous les Empires.]]></DES_MINE_DE_FER2>
+<DES_EXTR_DE_FER><![CDATA[Grâce à un développement technologique important et à une infrastructure lourde et imposante, il est possible d'extraire directement, en plus grande quantité, le minerai en profondeur pour obtenir un minerai pur et, ceci, plus rapidement.]]></DES_EXTR_DE_FER>
+<DES_EXTR_DE_FER2><![CDATA[Grâce à un développement technologique important et à une infrastructure lourde et imposante, il est possible d'extraire directement, en plus grande quantité, le minerai en profondeur pour obtenir un minerai pur et, ceci, plus rapidement. Sur la même base que les foreuses à pétrole, mais de conception extra-terrestre et de taille supérieure, les centres d'extraction sont capables d'aller chercher les minerais profondément enfouis et de les ramener à la surface. <br> Le centre d'extraction du fer permet de récolter bien plus de fer que la mine conventionnelle. Plus cher et plus gourmand en énergie, sa rentabilité est plus importante.]]></DES_EXTR_DE_FER2>
+<DES_MINE_OR><![CDATA[L'or est une ressource qui a toujours été convoitée. Synonyme de richesse et de rareté, l'or est aujourd'hui plus facile à trouver. Ces capacités spécifiques rendent l'or très utile dans la fabrication des systèmes électriques et électromgnétiques.]]></DES_MINE_OR>
+<DES_MINE_OR2><![CDATA[L'or est une ressource qui a toujours été convoitée. Synonyme de richesse et de rareté, l'or est aujourd'hui plus facile à trouver. Ces capacités spécifiques rendent l'or très utile dans la fabrication des systèmes électriques et électromgnétiques. <br>L'or est ainsi utilisé dans les bâtiments pour la création de circuits intégrés, mais aussi et principalement pour la réalisation des systèmes informatiques et électromagnétique. L'exploitation des mines d'or est indispensable à tout Empire.]]></DES_MINE_OR2>
+<DES_EXTR_OR><![CDATA[Grâce à un développement technologique important et à une infrastructure lourde et imposante, il est possible d'extraire directement, en plus grande quantité, le minerai en profondeur pour obtenir un minerai pur et, ceci, plus rapidement.]]></DES_EXTR_OR>
+<DES_EXTR_OR2><![CDATA[Grâce à un développement technologique important et à une infrastructure lourde et imposante, il est possible d'extraire directement, en plus grande quantité, le minerai en profondeur pour obtenir un minerai pur et, ceci, plus rapidement. Sur la même base que les foreuses à pétrole, mais de conception extra-terrestre et de taille supérieure, les centres d'extraction sont capables d'aller chercher les minerais profondément enfouis et de les ramener à la surface. <br>Le centre d'extraction de l'or permet de récupérer plus facilement de l'or pur et, ainsi, le rendre moins rare. Bien que couteux en énergie, ce système reste bien plus rentable que la mine conventionnelle.]]></DES_EXTR_OR2>
+<DES_MINE_CRISTAL><![CDATA[Le cristal est un minerai très solide et généralement créé en profondeur, proche du coeur des planètes. Il est donc très difficile de trouver des mines de cristaux purs, ce qui en fait un minerai très précieux.]]></DES_MINE_CRISTAL>
+<DES_MINES_CRISTAL2><![CDATA[Le cristal est un minerai très solide et généralement créé en profondeur, proche du coeur des planètes. Il est donc très difficile de trouver des mines de cristaux purs, ce qui en fait un minerai très précieux. Plus les mines sont profondes, plus les cristaux sont purs et donc plus facilement utilisable. Les capacités physiques des cristaux les rendent très utile dans le développement et la conception de hautes technologies tels que des moteurs hyperspatiaux.]]></DES_MINES_CRISTAL2>
+<DES_AMBASSADE><![CDATA[Pour développer votre Empire, vous allez devoir coloniser plusieurs planètes. En fonction de la stratégie que vous adopterez, l'Ambassade vous offrira la possibilité de vous étendre.<br>]]></DES_AMBASSADE>
+<DES_AMBASSADE2><![CDATA[Ce bâtiment est indispensable pour le développement de votre Empire. En effet, il vous offrira la possibilité d'accéder à une nouvelle colonie à chacun de ses niveaux. à vous ensuite de bien choisir vos colonies en fonction de la stratégie que vous souhaitez mettre en place.]]></DES_AMBASSADE2>
+<DES_MINE_NAQUADA><![CDATA[Gaz très réactif, l'hydrogène est directement extrait de l'eau de mer sous la forme de deutérium. Sa réactivité fait qu'il est très utile pour la propulsion des vaisseaux, faisant de l'hydrogène un élément clé pour la conquête spatiale.]]></DES_MINE_NAQUADA>
+<DES_MINE_NAQUADA2><![CDATA[Gaz très réactif, l'hydrogène est directement extrait de l'eau de mer sous la forme de deutérium. Sa réactivité fait qu'il est très utile pour la propulsion des vaisseaux, faisant de l'hydrogène un élément clé pour la conquête spatiale. <br>Il est aussi utilisé dans les réactions thermonucléaires pour la production d'énergie, mais aussi dans la fabrication d'armes et de boucliers, s'il est bien maîtrisé.]]></DES_MINE_NAQUADA2>
+<DES_CENTRALE_ENERGIE_THERMIQUE><![CDATA[La géothermie est la science qui étudie les phénomenes thermiques internes des planètes et la technique qui vise à exploiter la chaleur, à travers les Centrales Thermiques.]]></DES_CENTRALE_ENERGIE_THERMIQUE>
+<DES_CENTRALE_ENERGIE_THERMIQUE2><![CDATA[De grandes sources de chaleur sont présentes sur les planètes. La géothermie est la science qui étudie les phénomenes thermiques internes des planètes et la technique qui vise à l'exploiter, à travers les Centrales Thermiques.<br> Les Centrales Thermiques ou Géothermiques exploitent la chaleur du sous-sol pour créer de l'énergie. Son extraction et son acheminement reste cependant difficile. Ainsi, chaque niveau de la Centrale Thermique permet d'exploiter plus rentablement la chaleur de la planète et produire plus d'énergie.]]></DES_CENTRALE_ENERGIE_THERMIQUE2>
+<DES_CENTRALE_ENERGIE_NAQUADA><![CDATA[Avec le temps, l'énergie demandée est de plus en plus importante et il devient nécessaire de trouver un moyen de production plus efficace. La solution a été le développement du Réacteur Thermonucléaire.]]></DES_CENTRALE_ENERGIE_NAQUADA>
+<DES_CENTRALE_ENERGIE_NAQUADA2><![CDATA[Avec le temps, l'énergie demandée est de plus en plus importante et il devient nécessaire de trouver un moyen de production plus efficace. <br>La solution a été le développement du Réacteur Thermonucléaire, rendu possible par les progres dans le contrôle de l'énergie et de l'hydrogène. Basé sur la fusion nucléaire, le réacteur thermonucléaire est capable de générer d'énormes quantités d'énergie en consommant de l'hydrogène.]]></DES_CENTRALE_ENERGIE_NAQUADA2>
+<DES_CENTRALE_HYDROLIQUE><![CDATA[Les Centrales Hydrauliques utilisent la force de l'eau présente naturellement sur les planètes. à l'aide de barrages, l'eau, poussée par la pression, traverse des turbines qui entraînent d'immenses alternateurs, situés à la base du barrage, qui produiront l'électricité. ]]></DES_CENTRALE_HYDROLIQUE>
+<DES_CENTRALE_HYDROLIQUE2><![CDATA[Les Centrales Hydrauliques utilisent la force de l'eau présente naturellement sur les planètes. à l'aide de barrages, l'eau, poussée par la pression, traverse des turbines qui entraînent d'immenses alternateurs, situés à la base du barrage, qui produiront l'électricité. <br>Ainsi, de l'électricité est produite assez rapidement avec un rendement plus important qu'une centrale thermique. La Centrale Hydraulique permet d'obtenir une énergie propre et renouvelable. <br>En maîtrisant bien cette technologie, on peut produire de l'énergie à un moindre coût. La production de ce type de centrale n'est certes pas des meilleures, mais elle offre un bon compromis pour qui tient à se développer rapidement.]]></DES_CENTRALE_HYDROLIQUE2>
+<DES_CENTRALE_ENERGIE_SOLAIRE><![CDATA[La Centrale Solaire transforme directement une partie du rayonnement solaire en électricité grâce à de nombreux panneaux solaires composés de cellules photovoltaiques. La transformation de ces rayons étant rapide, la Centrale Solaire possède un rendement supérieur à celui des autres centrales conventionnelles. ]]></DES_CENTRALE_ENERGIE_SOLAIRE>
+<DES_CENTRALE_ENERGIE_SOLAIRE2><![CDATA[La Centrale Solaire transforme directement une partie du rayonnement solaire en électricité grâce à de nombreux panneaux solaires composés de cellules photovoltaiques. <br>La transformation de ces rayons étant rapide, la Centrale Solaire possède un rendement supérieur à celui des autres centrales conventionnelles. Cependant, elle dépend intégralement du soleil et de son intensité. <br>La Centrale Solaire nécessite une grande quantité d'énergie lumineuse pour fonctionner correctement. Elle est donc fort intéressante pour les planètes proches du soleil, mais très peu avantageuse pour les autres. Elle devient, d'ailleurs, très inefficace sur les planètes éloignées du soleil où il est déconseillé d'en construire, le rayonnement n'étant plus assez intense pour produire de l'énergie.]]></DES_CENTRALE_ENERGIE_SOLAIRE2>
+<DES_CASERNE><![CDATA[La Caserne Militaire permet de former des soldats spécialisés dans différents domaines. Les soldats sont nécessaires à tout Empire et dans diverses tâches.]]></DES_CASERNE>
+<DES_CASERNE2><![CDATA[La Caserne Militaire permet de former des soldats spécialisés dans différents domaines. Les soldats sont nécessaires à tout Empire et dans diverses tâches. <br>Former pour simplement assurer la sécurité de vos complexes en cas d'attaques, ils sont aussi généralement utilisés pour piloter les vaisseaux et pour des missions extraplanétaires risquées, nécessitant de rigoureux entrainements. Chaque niveau de la Caserne Militaire permet de former un plus grand nombre de soldats par jour.]]></DES_CASERNE2>
+<DES_CHANTIER><![CDATA[Tout Empire a besoin, pour sa conquête de l'espace, de construire des vaisseaux spatiaux. Le Chantier Spatial est une infrastructure imposante permettant la construction de vaisseaux spatiaux de tout type (transporteur de troupes et de ressources, vaisseaux de combats...).]]></DES_CHANTIER>
+<DES_CHANTIER2><![CDATA[Tout Empire a besoin, pour sa conquête de l'espace, de construire des vaisseaux spatiaux. Le Chantier Spatial est une infrastructure imposante permettant la construction de vaisseaux spatiaux de tout type (transporteur de troupes et de ressources, vaisseaux de combats,...). <br>Plus le Chantier Spatial est grand, plus il est possible de construire de grands vaisseaux. Il est conseillé aux Empires de développer très tôt leur Chantier Spatial.]]></DES_CHANTIER2>
+<DES_RESERVE_FER><![CDATA[Le développement des Empires nécessite de plus en plus de ressources pour la création de nouveaux bâtiments, de nouveaux vaisseaux, ou pour le développement de nouvelles hautes technologies. ]]></DES_RESERVE_FER>
+<DES_RESERVE_FER2><![CDATA[Le développement des Empires nécessite de plus en plus de ressources pour la création de nouveaux bâtiments, de nouveaux vaisseaux, ou pour le développement de nouvelles hautes technologies. Ceci nécessite alors de nouvelles exigences de stockage des ressources en attendant leur utilisation. Les Entrepôts de fer permettent de stocker de plus grandes quantités de fer.]]></DES_RESERVE_FER2>
+<DES_RESERVE_OR><![CDATA[Le développement des Empires nécessite de plus en plus de ressources pour la création de nouveaux bâtiments, de nouveaux vaisseaux, ou pour le développement de nouvelles hautes technologies. ]]></DES_RESERVE_OR>
+<DES_RESERVE_OR2><![CDATA[Le développement des Empires nécessite de plus en plus de ressources pour la création de nouveaux bâtiments, de nouveaux vaisseaux, ou pour le développement de nouvelles hautes technologies. Ceci nécessite alors de nouvelles exigences de stockage des ressources en attendant leur utilisation. Les Entrepôts d'or permettent de stocker de plus grandes quantités d'or.]]></DES_RESERVE_OR2>
+<DES_RESERVE_CRISTAL><![CDATA[Le développement des Empires nécessite de plus en plus de ressources pour la création de nouveaux bâtiments, de nouveaux vaisseaux, ou pour le développement de nouvelles hautes technologies. ]]></DES_RESERVE_CRISTAL>
+<DES_RESERVE_CRISTAL2><![CDATA[Le développement des Empires nécessite de plus en plus de ressources pour la création de nouveaux bâtiments, de nouveaux vaisseaux, ou pour le développement de nouvelles hautes technologies. Ceci nécessite alors de nouvelles exigences de stockage des ressources en attendant leur utilisation. Les Entrepôts de cristal permettent de stocker de plus grandes quantités de cristal.]]></DES_RESERVE_CRISTAL2>
+<DES_RESERVE_NAQUADA><![CDATA[Faisant partie des produits les plus dangereux, l'hydrogène a besoin d'être stocké dans le respect de certaines précautions particulières pour éviter tous risques d'explosions dévastatrices.]]></DES_RESERVE_NAQUADA>
+<DES_RESERVE_NAQUADA2><![CDATA[Faisant partie des produits les plus dangereux, l'hydrogène a besoin d'être stocké dans le respect de certaines précautions particulières pour éviter tous risques d'explosions dévastatrices. Ainsi des silos ont spécialement été créés pour stocker de grandes quantités d'hydrogène tout en limitant les risques d'explosion.]]></DES_RESERVE_NAQUADA2>
+<DES_BUNKER_RESSOURCES_AVANCE><![CDATA[Les systèmes de commande et d'espionnage de plus en plus poussés ont rendu les Bunkers à ressources facilement repérables. De plus, ceux-ci étaient petits et peu résistants.]]></DES_BUNKER_RESSOURCES_AVANCE>
+<DES_BUNKER_RESSOURCES_AVANCE2><![CDATA[Les systèmes de commande et d'espionnage de plus en plus poussés ont rendu les Bunkers à ressources facilement repérables. De plus, ceux-ci étaient petits et peu résistants.<br/>Le Bunker à ressources a donc été amélioré pour pouvoir dissimuler plus efficacement les ressources et permettre d'en stocker un plus grand nombre.<br/>Le Bunker à ressources avancé permet de cacher un nombre très limité de ressources. Cependant, les ressources placées dans ce Bunker seront plus difficiles à voler lors d'attaques spatiales.]]></DES_BUNKER_RESSOURCES_AVANCE2>
+<DES_BUNKER_RESSOURCES><![CDATA[Depuis des années, des empires ont basé leurs productions à partir des ressources pillées sur d'autres planètes. Non contents d'exploiter plusieurs colonies, ils allaient piller celles des autres.]]></DES_BUNKER_RESSOURCES>
+<DES_BUNKER_RESSOURCES2><![CDATA[Depuis des années, des empires ont basé leurs productions à partir des ressources pillées sur d'autres planètes. Non contents d'exploiter plusieurs colonies, ils allaient piller celles des autres. <br>Ainsi, pour se protéger des voleurs, un groupe de commerçants a créé un Bunker à ressources, capable d'être caché aux ennemis. <br>Le Bunker à ressources permet de cacher un nombre très limité de ressources. Cependant, les ressources placées dans ce Bunker ne pourront être volées en cas d'attaque.]]></DES_BUNKER_RESSOURCES2>
+<DES_CENTRE_DEF><![CDATA[Dans le but de protéger de la planète des nouvelles armes développées par les ennemis, le centre de défense a été créé.<br><br>]]></DES_CENTRE_DEF>
+<DES_CENTRE_DEF2><![CDATA[Le développement de l'armement est souvent une priorité dans les Empires. Mais une question cruciale se pose toujours ensuite : comment se protéger de ces nouvelles armes ? <br>Dans le but de protéger la sécurité de la planète, le centre de défense a été créé. Des techniciens et des chercheurs y travaillent sans cesse dans le but d'adapter les nouvelles armes créées pour en faire des défenses planétaires et contrer plus efficacement les attaques.]]></DES_CENTRE_DEF2>
+<DES_PLATE_FORME><![CDATA[Bien qu'il n'existe plus de guerre à l'échelle de l'univers, certains empires se font encore la guerre afin de dominer des galaxies entières. Ainsi, la nécessité de posséder une grande et puissante flotte est toujours présente. ]]></DES_PLATE_FORME>
+<DES_PLATE_FORME2><![CDATA[Bien qu'il n'existe plus de guerre à l'échelle de l'univers, certains empires se font encore la guerre afin de dominer des galaxies entières. Ainsi, la nécessité de posséder une grande et puissante flotte est toujours présente. <br>La plate-forme spatiale permet donc aux alliances de regrouper leurs flottes sur une même planète. <br>Chaque niveau de la plate-forme permet d'augmenter sa taille et donc la place disponible pour les vaisseaux.]]></DES_PLATE_FORME2>
+<DES_AVANT_POSTE><![CDATA[Cet Avant Poste représente le système de défense ultime doté d'une grande puissance. Il permet de construire et de stocker de nombreux Missiles d'Interception Intelligents (nommés drones) qui sont capable de localiser et d'apporter de sérieux dommages à leurs cibles.]]></DES_AVANT_POSTE>
+<DES_AVANT_POSTE2><![CDATA[Cet Avant Poste représente le système de défense ultime doté d'une grande puissance. Il permet de construire et de stocker de nombreux Missiles d'Interception Intelligents (nommés drones) qui sont capable de localiser et d'apporter de sérieux dommages à leurs cibles. Le contrôle de cette multitude de drones demande beaucoup d'énergie qui peut uniquement être fournie par des Cellules énergétiques. <br>L'Avant Poste de défense est l'arme ultime de défense planétaire.]]></DES_AVANT_POSTE2>
+<DES_CTR_EXPLOITATION><![CDATA[L'Usine Robotique permet de fabriquer des robots qui pourront ensuite travailler plus rapidement à la construction de nouveaux bâtiments.<br><br>]]></DES_CTR_EXPLOITATION>
+<DES_CTR_EXPLOITATION2><![CDATA[Votre Empire ne cesse de s'agrandir. Il nécessite toujours plus de constructions, de toute sorte et de plus en plus difficiles. Les temps de construction sont de plus en plus longs, et la main-d'oeuvre se fait rare. L'Usine Robotique permet de fabriquer des robots qui pourront ensuite travailler plus rapidement à la construction de nouveaux bâtiments. Chaque niveau de l'Usine Robotique fait diminuer de 10% les temps de constructions.]]></DES_CTR_EXPLOITATION2>
+<DES_SIEGE_DES_ANCIENS><![CDATA[Les robots sont devenus essentiels à toutes les constructions, mais c'est insuffisant. Un nouveau département a alors été créé : le département de contrôle psychique. ]]></DES_SIEGE_DES_ANCIENS>
+<DES_SIEGE_DES_ANCIENS2><![CDATA[Les robots sont devenus essentiels à toutes les constructions tant votre Empire s'est développé. Néanmoins, ceci apparait toujours comme insuffisant. Un nouveau département a alors été créé : le département de contrôle psychique. Celui-ci a développé un système de contrôle à distance de toutes les installations électriques et électromgnétiques. Il suffit à une personne de se connecter à une interface neuronale pour gérer toutes les constructions d'une planète. Très efficace, ce système permet de diminuer de 50% tous les temps de constructions.]]></DES_SIEGE_DES_ANCIENS2>
+<DES_LABO_SCIENTIFIQUE><![CDATA[Le laboratoire scientifique permet à vos chercheurs d'effectuer de nombreuses expériences afin de mettre au point de nouvelles technologies.]]></DES_LABO_SCIENTIFIQUE>
+<DES_LABO_SCIENTIFIQUE2><![CDATA[Tout Empire a besoin, pour son développement, d'effectuer des recherches scientifiques. Le laboratoire scientifique permet à vos chercheurs d'effectuer de nombreuses expériences afin de mettre au point de nouvelles technologies. Les recherches y sont généralement diverses et variées, allant du développement de nouveaux systèmes informatiques à des technologies très évoluées comme la maitrise de l'hyperespace. La taille de votre laboratoire de recherche conditionne le type de technologies qui peuvent y être développées.]]></DES_LABO_SCIENTIFIQUE2>
+<DES_ZONE_51><![CDATA[La recherche dans le domaine des hautes technologies a engendré de nombreux problèmes. Compte tenu de la complexité qu'elles représentent, mais aussi de leurs dangers et de leurs importances, il est devenu nécessaire de les développer dans un centre particulier...]]></DES_ZONE_51>
+<DES_ZONE_512><![CDATA[La recherche dans le domaine des hautes technologies a engendré de nombreux problèmes. Compte tenu de la complexité qu'elles représentent, mais aussi de leurs dangers et de leurs importances, il est devenu nécessaire de les développer dans un centre à très haut niveau de recherche et de sécurité. La Zone 51 abrite ainsi les plus grands scientifiques de la planète dans un laboratoire de pointe et dans un lieu tenu secret.]]></DES_ZONE_512>
+<DES_TERRAFORMEUR><![CDATA[Le procédé de terraformation permet de modifier l'aspect d'une planète et de rendre habitables des régions entières qui étaient jusqu'alors inexploitables. Plus une planète aura de surface immergée, plus il sera difficile de gagner des places constructibles supplémentaires.]]></DES_TERRAFORMEUR>
+<DES_TERRAFORMEUR2><![CDATA[Le procédé de terraformation permet de modifier l'aspect d'une planète et de rendre habitables des régions entières qui étaient jusqu'alors inexploitables. Il est, ainsi, possible de réagencer la surface de la planète habitée afin de la faire correspondre, au mieux, aux besoins de ses habitants et des constructions qui doivent y être faites. La terraformation permet donc de gagner des places supplémentaires sur la planète. Plus une planète aura de surface immergée, plus il sera difficile de gagner des places constructibles supplémentaires.]]></DES_TERRAFORMEUR2>
+<DES_COMPLEX_MILI><![CDATA[Les empires, face à  l'importance stratégique  que représente le contrôle du Portail Spatial, ont mis au point des complexes militaires visant à lancer des attaques par le Portail, mais aussi à la défendre.]]></DES_COMPLEX_MILI>
+<DES_COMPLEX_MILI2><![CDATA[Les empires, face à  l'importance stratégique  que représente le contrôle du Portail Spatial, ont mis au point des complexes militaires visant à lancer des attaques par le Portail, mais aussi à la défendre. Avec les nouvelles technologies maitrisées par votre Empire, il est maintenant possible de former de nouveaux types de soldats plus puissants et permettant des attaques d'un nouveau genre. <br>Ce nouveau bâtiment offre l'accomplissement de diverses missions stratégiques très utiles. Le Complexe Militaire s'est très vite imposé comme le bâtiment de référence en matière d'armée terrestre.]]></DES_COMPLEX_MILI2>
+</batiments>
+<technologies>
+<SALLE_CONTROLE>Technologie Salle de Contrôle</SALLE_CONTROLE>
+<TECH_ENERGIE>Technologie Maîtrise de l'énergie</TECH_ENERGIE>
+<INFRA>Technologie Infrastructure des vaisseaux</INFRA>
+<CENTRE_DE_RECHERCHE>Centre de recherche</CENTRE_DE_RECHERCHE>
+<ZONE_51>Zone 51</ZONE_51>
+<LABO>Laboratoire</LABO>
+<TECH_RARES>Technologies Rares</TECH_RARES>
+<COMBUSTION>Technologie Réacteurs à Combustion</COMBUSTION>
+<ESPIO>Technologie Espionnage</ESPIO>
+<CONTRE_ESPIO>Technologie Contre-Espionnage</CONTRE_ESPIO>
+<COQUE>Technologie Amélioration de la Coque</COQUE>
+<CAMOUFLAGE>Technologie Camouflage</CAMOUFLAGE>
+<CAPTEURS_INTRA>Technologie Capteurs Intrastellaires</CAPTEURS_INTRA>
+<ARMEMENT>Technologie Amélioration de l'Armement</ARMEMENT>
+<NAQUADAH>Technologie Maîtrise de l'Hydrogène</NAQUADAH>
+<LASER>Technologie Maîtrise du Laser</LASER>
+<IONS>Technologie Maîtrise des Ions</IONS>
+<PLASMA>Technologie Maîtrise du Plasma</PLASMA>
+<SUBLUMINIQUES>Technologie Réacteurs SubLuminiques</SUBLUMINIQUES>
+<HYPERESPACE_INTRA>Technologie Antimatière</HYPERESPACE_INTRA>
+<HYPERESPACE_INTER>Technologie Hyperespace</HYPERESPACE_INTER>
+<CAPTEURS_INTER>Technologie Capteurs Interstellaires</CAPTEURS_INTER>
+<BOUCLIER>Technologie Bouclier de Protection</BOUCLIER>
+<ANCIENS>Savoir des Grands Sages</ANCIENS>
+<GENI_GENETIQUE>Génie Génétique</GENI_GENETIQUE>
+<NANO_TECH>Nanotechnologie</NANO_TECH>
+<TELEPORTATION>Téléportation</TELEPORTATION>
+<EXTENSION_SOUTES>Technologie d'Extension des Soutes</EXTENSION_SOUTES>
+<DES_SALLE_CONTROLE><![CDATA[Développer cette technologie permet d'accroître la puissance des systèmes informatiques afin de gérer plus de calculs simultanément. <br>Le système de traitement des données étant amélioré, il devient possible de contrôler plus de flottes en même temps.]]></DES_SALLE_CONTROLE>
+<DES_TECH_ENERGIE><![CDATA[Plus les recherches avancent, plus les chercheurs s'exposent à un dilemme : chaque recherche, chaque technologie de pointe nécessitent une quantité d'énergie de plus en plus importante et difficile à produire et à maîtriser.]]></DES_TECH_ENERGIE>
+<DES_INFRA><![CDATA[La technologie d'infrastructure des vaisseaux permet d'approfondir les connaissances sur leur squelette, afin d'en concevoir de plus complexes et de plus grands. <br>Ainsi, des types de vaisseaux, plus vastes et permettant plus de possibilités d'équipement,  peuvent être développés.]]></DES_INFRA>
+<DES_COMBUSTION><![CDATA[Les systèmes de propulsion SubLuminique à combustion permettent de concevoir des réacteurs à combustion de petites dimensions, peu rapides et peu résistants, destinés aux vaisseaux de petite taille (de type chasseur ou transporteur) et pour de petits trajets.]]></DES_COMBUSTION>
+<DES_ESPIO><![CDATA[La technologie d'espionnage consiste à développer différents systèmes et programmes capables de collecter des informations sur les mondes ennemis et, ceci, le plus rapidement possible. Ainsi, plus la technologie d'espionnage est poussée, plus les informations sont précises.]]></DES_ESPIO>
+<DES_CONTRE_ESPIO><![CDATA[L'espionnage devenant un véritable problème pour les grands empires, des techniques de Contre Espionnage doivent impérativement être développées.<br>Des systèmes de sécurité et de détection de plus en plus efficaces sont conçus afin de limiter les fuites d'informations et la mise en danger de vos installations.]]></DES_CONTRE_ESPIO>
+<DES_COQUE><![CDATA[La technologie d'amélioration de la coque consiste à concevoir de nouveaux alliages de plus en plus résistants, pour la coque des vaisseaux, afin de pouvoir mieux les protéger. Un haut niveau de technologie permettra de passer de coques fragiles à des coques de plus en plus performantes.]]></DES_COQUE>
+<DES_CAMOUFLAGE><![CDATA[Développer la technologie de camouflage permet de se rendre invisible aux radars et à la vue des vaisseaux spatiaux, donnant, ainsi, un avantage stratégique sur l'adversaire. <br>Le développement d'occulteurs performants dépend, alors, de cette technologie.]]></DES_CAMOUFLAGE>
+<DES_CAPTEURS_INTRA><![CDATA[Les IPERs se sont trouvés inutiles face à des empires capables de protéger leurs portes, rendant la collecte d'informations difficile. Développer des capteurs Intrastellaires permet l'espionnage de planètes depuis l'espace.]]></DES_CAPTEURS_INTRA>
+<DES_ARMEMENT><![CDATA[La technologie d'amélioration de l'armement a pour but d'améliorer tous les types d'armes, en améliorant leur conception, leur fiabilité et la concentration de l'énergie (pour les armes à énergie) et, ainsi, accroître leur puissance et leur rentabilité.]]></DES_ARMEMENT>
+<DES_NAQUADAH><![CDATA[Gaz très dangereux, l'hydrogène a besoin d'être étudié dans le but de pouvoir le contrôler en toute sécurité. L'objectif est important. En effet, l'hydrogène est utilisé dans beaucoup de domaines stratégiques : il est le carburant principal des vaisseaux, il produit de grandes quantités d'énergie et il est utilisé pour les armes et les boucliers.]]></DES_NAQUADAH>
+<DES_LASER><![CDATA[Le laser est un rayon de lumière fortement concentré pouvant développer une forte quantité d'énergie. Le laser sert dans beaucoup de domaines, mais est notamment utilisé pour l'armement.]]></DES_LASER>
+<DES_IONS><![CDATA[La particularité des ions est leur capacité à endommager les circuits électriques et de les rendre inutilisable. Les armes énergétiques à ions peuvent être très efficaces pour ralentir, voir immobiliser des vaisseaux. Fortement concentrés, ils peuvent aussi s'avérer très destructeurs.]]></DES_IONS>
+<DES_PLASMA><![CDATA[En combinant les ions et le laser, on peut obtenir une arme bien plus puissante et encore plus dévastatrice : le plasma. <br> Ainsi, la technologie de plasma permet de créer les armes les plus puissantes connues de nos jours.]]></DES_PLASMA>
+<DES_SUBLUMINIQUES><![CDATA[La technologie des réacteurs à combustion est désormais devenue obsolète pour les voyages de longues distances et à des vitesses élevées.<br> Les chercheurs de la Zone 51 ont alors conçu, à partir des technologies préexistantes de propulsion SubLuminiques, un système amélioré fonctionnant à impulsion]]></DES_SUBLUMINIQUES>
+<DES_HYPERESPACE_INTRA><![CDATA[L'antimatière est analogue à la matière, formée non plus de particules, mais d'antiparticules dont une caractéristique (la charge électrique par exemple) est opposée. Ainsi, l'antiparticule de l'électron (négatif) est le positon (positif). Stables si elles sont éloignées, particules et antiparticules disparaissent et se transforment en énergie considérable lorsqu'elles se rencontrent. Le développement de cette technologie permet de mettre au point des techniques permettant de contrôler cette énergie principalement à des fins de propulsion de vaisseaux spatiaux.]]></DES_HYPERESPACE_INTRA>
+<DES_HYPERESPACE_INTER><![CDATA[L'hyperespace est un espace possédant plus de 3 dimensions. Il est accessible en courbant l'espace que nous connaissons sur lui même afin de rapprocher le point d'arrivée et de départ qui sont alors reliés par un trou de ver rendant le voyage pratiquement instantané.]]></DES_HYPERESPACE_INTER>
+<DES_CAPTEURS_INTER><![CDATA[Des peuples très avancés ont mis au point des capteurs interstellaires. Ils peuvent visualiser des mouvements de flottes à plusieurs galaxies de là, mais, aussi, visualiser l'ensemble des peuples y résidant. Les capteurs interstellaires sont nécessaires pour pouvoir visualiser la cartographie de l'Univers. Plus le niveau de cette technologie est important, plus la cartographie est bonne et lointaine.]]></DES_CAPTEURS_INTER>
+<DES_BOUCLIER><![CDATA[Malgré le fait que les coques soient de plus en plus résistantes, les armes viennent trop vite à bout des vaisseaux. Les chercheurs ont alors réalisé des boucliers de protection pouvant être utilisés sur des vaisseaux et qui sont capables d'absorber les attaques et de se régénérer entre deux vagues d'assauts.]]></DES_BOUCLIER>
+<DES_ANCIENS><![CDATA[Les connaissances amassées par la civilisation de la Grande Coalition dépassent l'entendement. L'exil et le temps en ont effet conduit à une régression technologique des peuples divisés. Quelques écrits et autres traces de cette époque nous permettent de savoir que les Grands Sages sont à l'origine du Portail Spatial et de bien d'autres technologies de pointe que les Empires ne maitrisent plus.]]></DES_ANCIENS>
+<DES_GENI_GENETIQUE><![CDATA[Les Empereurs n'ont cessé de rechercher un moyen de s'imposer militairement dans l'Univers. Bien que le nombre de soldats ait toujours été préféré à leur force, certains se sont aperçus que cela ne suffisait plus. Des chercheurs ont ainsi commencé à manipuler l'ADN humain afin de pouvoir créer de nouveaux soldats, génétiquement programmés pour le combat, et donc aux aptitudes physiques et intellectuelles plus performantes.]]></DES_GENI_GENETIQUE>
+<DES_NANO_TECH><![CDATA[Les chercheurs se sont vite aperçus que la manipulation de l'ADN avait ses limites. Non seulement les méthodes de modification de l'ADN sont compliquées, mais la durée de vie des organismes modifiés est réduite au minimum et ne permettent pas d'atteindre les buts espérés par les Grands Empires. Un groupe de chercheurs s'est alors penché sur la nanotechnologie : la science permettant de créer des robots de la taille du nanomètre.]]></DES_NANO_TECH>
+<DES_TELEPORTATION><![CDATA[La technologie de téléportation permet de téléporter n'importe quel individu ou objet dans un certain rayon à partir de sa source. La téléportation est comparable au système de transport des Portails Spatiaux.]]></DES_TELEPORTATION>
+<DES_EXTENSION_SOUTES><![CDATA[La Technologie Extension de soutes permet d'augmenter le fret des infrastructures de vaisseaux existantes en optimisant les systèmes de stockage à bord.]]></DES_EXTENSION_SOUTES>
+<DES_SALLE_CONTROLE2><![CDATA[Développer cette technologie permet d'accroître la puissance des systèmes informatiques afin de gérer plus de calculs simultanément. <br>Le système de traitement des données étant amélioré, il devient possible de contrôler plus de flottes en même temps. Chaque niveau augmente la puissance des processeurs permettant de gérer une flotte supplémentaire en mouvement.]]></DES_SALLE_CONTROLE2>
+<DES_TECH_ENERGIE2><![CDATA[Plus les recherches avancent, plus les chercheurs s'exposent à un dilemme : chaque recherche, chaque technologie de pointe nécessitent une quantité d'énergie de plus en plus importante et difficile à produire et à maîtriser. La technologie de maîtrise de l'énergie a pour but de trouver un nouveau moyen de production d'énergie, fiable et rapide pour que la recherche puisse avancer plus facilement.]]></DES_TECH_ENERGIE2>
+<DES_INFRA2><![CDATA[La technologie d'infrastructure des vaisseaux permet d'approfondir les connaissances sur leur squelette, afin d'en concevoir de plus complexes et de plus grands. <br>Ainsi, des types de vaisseaux, plus vastes et permettant plus de possibilités d'équipement,  peuvent être développés. L'accroissement régulier de cette technologie donne accès à de nouvelles infrastructures.]]></DES_INFRA2>
+<DES_COMBUSTION2><![CDATA[Les systèmes de propulsion SubLuminique à combustion permettent de concevoir des réacteurs à combustion de petites dimensions, peu rapides et peu résistants, destinés aux vaisseaux de petite taille (de type chasseur ou transporteur) et pour de petits trajets. Nécessitant peu de connaissances techniques, ces réacteurs sont les plus couramment utilisés. Améliorer cette technologie permet d'augmenter le rendement de ces réacteurs, augmentant de 10% leur vitesse de base pour chaque niveau.]]></DES_COMBUSTION2>
+<DES_ESPIO2><![CDATA[La technologie d'espionnage consiste à développer différents systèmes et programmes capables de collecter des informations sur les mondes ennemis et ceci, le plus rapidement possible. Ainsi, plus la technologie d'espionnage est poussée, plus les informations sont précises. Pour pouvoir se protéger de l'espionnage, des techniques de contre espionnage devront, aussi, être étudiées. Avoir un bon niveau technologique d'espionnage et de contre espionnage est très important pour les grands Empires.]]></DES_ESPIO2>
+<DES_CONTRE_ESPIO2><![CDATA[L'espionnage devenant un véritable problème pour les grands empires, des techniques de Contre Espionnage doivent impérativement être développées.<br>Des systèmes de sécurité et de détection de plus en plus efficaces sont conçus afin de limiter les fuites d'informations et la mise en danger de vos installations. Cette technologie a une place très importante dans tout Empire désirant s'étendre et se protéger.]]></DES_CONTRE_ESPIO2>
+<DES_COQUE2><![CDATA[La technologie d'amélioration de la coque consiste à concevoir de nouveaux alliages de plus en plus résistants, pour la coque des vaisseaux, afin de pouvoir mieux les protéger. Un haut niveau de technologie permettra de passer de coques fragiles à des coques de plus en plus performantes. La technologie d'amélioration de la coque est nécessaire à la construction de vaisseaux robustes. Chaque niveau de cette technologie augmente de 10% la solidité de la coque.]]></DES_COQUE2>
+<DES_CAMOUFLAGE2><![CDATA[Développer la technologie de camouflage permet de se rendre invisible aux radars et à la vue des vaisseaux spatiaux, donnant, ainsi, un avantage stratégique sur l'adversaire. <br>Le développement d'occulteurs performants dépend, alors, de cette technologie. La technologie de Camouflage est nécessaire pour tous les Empires désirant s'imposer dans l'Univers. Pour contrer le niveau de camouflage des vaisseaux, il est nécessaire d'avoir un très bon niveau de contre espionnage.]]></DES_CAMOUFLAGE2>
+<DES_CAPTEURS_INTRA2><![CDATA[Les IPERs se sont trouvés rapidement inutiles face à des Empires capables de protéger leurs portes, rendant la collecte d'informations difficile.<br> Développer des capteurs intrastellaires permet l'espionnage de planètes depuis l'espace. La technologie des capteurs intrastellaires permet de construire des sondes spatiales. Plus rapides et plus efficaces que les I.P.E.R., les sondes spatiales deviennent très vite obligatoires pour les grands Empires en quête de gloire.]]></DES_CAPTEURS_INTRA2>
+<DES_ARMEMENT2><![CDATA[La technologie d'amélioration de l'armement a pour but d'améliorer tous les types d'armes, en améliorant leur conception, leur fiabilité et la concentration de l'énergie (pour les armes à énergie) et, ainsi, accroître leur puissance et leur rentabilité. La Technologie d'amélioration de l'armement permet donc la conception d'armes de plus en plus efficaces. Chaque niveau augmente de 10% la puissance de celles-ci.]]></DES_ARMEMENT2>
+<DES_NAQUADAH2><![CDATA[Gaz très dangereux, l'hydrogène a besoin d'être étudié dans le but de pouvoir le contrôler en toute sécurité. L'objectif est important. En effet, l'hydrogène est utilisé dans beaucoup de domaines stratégiques : il est le carburant principal des vaisseaux, il produit de grandes quantités d'énergie et il est utilisé pour les armes et les boucliers. Ainsi la technologie hydrogène est une recherche clé dans le développement de l'Empire.]]></DES_NAQUADAH2>
+<DES_LASER2><![CDATA[Le laser est un rayon de lumière fortement concentré pouvant développer une forte quantité d'énergie. Le laser sert dans beaucoup de domaines, mais est notamment utilisé pour l'armement.  Il permet de créer des armes encore assez basiques (après les armes de balistique), mais qui restent cependant bien plus efficaces, surtout pour l'équipement des soldats, en cas d'attaque terrestre. <br />Le laser est aussi l'une des principales sources de création d'autres systèmes d'armement. Son développement ne doit donc pas être négligé.]]></DES_LASER2>
+<DES_IONS2><![CDATA[La particularité des ions est leur capacité à endommager les circuits électriques et de les rendre inutilisable. Les armes énergétiques à ions peuvent être très efficaces pour ralentir, voir immobiliser des vaisseaux. Fortement concentrés, ils peuvent aussi s'avérer très destructeurs.]]></DES_IONS2>
+<DES_PLASMA2><![CDATA[En combinant les ions et le laser, on peut obtenir une arme bien plus puissante et encore plus dévastatrice : le plasma. <br> Ainsi, la technologie de plasma permet de créer les armes les plus puissantes connues de nos jours. Utilisée par les grands Empires, cette arme dévastatrice peut détruire des vaisseaux très résistants d'un seul coup.]]></DES_PLASMA2>
+<DES_SUBLUMINIQUES2><![CDATA[La technologie des réacteurs à combustion est désormais devenue obsolète pour les voyages de longues distances et à des vitesses élevées.<br> Les chercheurs de la zone 51 ont alors conçu, à partir des technologies préexistantes de propulsion SubLuminiques, un système amélioré fonctionnant à impulsion. Bien que plus rapide, car étant à impulsion ionique, ce type de réacteurs ne permet toujours pas d'aller aussi loin que peuvent le souhaiter les plus grands empires.]]></DES_SUBLUMINIQUES2>
+<DES_HYPERESPACE_INTRA2><![CDATA[L'antimatière est analogue à la matière, formée non plus de  particules, mais d'antiparticules dont une caractéristique (la charge électrique par exemple) est opposée. Ainsi, l'antiparticule de l'électron (négatif) est le positon (positif). Stables si elles sont éloignées, particules et antiparticules disparaissent et se transforment en énergie considérable lorsqu'elles se rencontrent. Le développement de cette technologie permet de mettre au point des techniques permettant de contrôler cette énergie principalement à des fins de propulsion de vaisseaux spatiaux.]]></DES_HYPERESPACE_INTRA2>
+<DES_HYPERESPACE_INTER2><![CDATA[L'hyperespace est un espace possédant plus de 3 dimensions. Il est accessible en courbant l'espace que nous connaissons sur lui même afin de rapprocher le point d'arrivé et de départ qui sont alors reliés par un trou de ver rendant le voyage pratiquement instantané. L'hyperespace est cependant soumis à la restriction de devoir être activé loin de tout champ de gravitation : le vaisseau ne peut donc l'utiliser qu'après s'être éloigné de tous les corps célestes.]]></DES_HYPERESPACE_INTER2>
+<DES_CAPTEURS_INTER2><![CDATA[Des peuples très avancés ont mis au point des capteurs interstellaires. Ils peuvent visualiser des mouvements de flottes à plusieurs galaxies de là, mais, aussi, visualiser l'ensemble des peuples y résidant. Les capteurs interstellaires sont nécessaires pour pouvoir visualiser la cartographie de l'Univers. Plus le niveau de cette technologie est important, plus la cartographie est bonne et lointaine.]]></DES_CAPTEURS_INTER2>
+<DES_BOUCLIER2><![CDATA[Malgré le fait que les coques soient de plus en plus résistantes, les armes viennent trop vite à bout des vaisseaux. Les chercheurs ont alors réalisé des boucliers de protection pouvant être utilisés sur des vaisseaux et qui sont capables d'absorber les attaques et de se régénérer entre deux vagues d'assauts.<br />Demandant beaucoup d'énergie et beaucoup de place, plusieurs types de bouclier ont été imaginés et créés, chacun plus ou moins puissant, afin d'être adaptables à différents types de vaisseaux (croiseurs, vaisseaux amiraux ...).<br />Développer cette technologie permet d'augmenter la puissance des boucliers, mais aussi de réduire leur taille pour les adapter à tous types de vaisseaux.<br />A chaque niveau de cette technologie, les boucliers augmentent leur puissance de 10%.]]></DES_BOUCLIER2>
+<DES_ANCIENS2><![CDATA[Les connaissances amassées par la civilisation de la Grande Coalition dépassent l'entendement. L'exil et le temps ont, en effet, conduit à un régressement technologiques des peuples divisés. Quelques écrits et autres traces de cette époque nous permettent de savoir que les Grands Sages sont à l'origine du Portail Spatial et de bien d'autres technologies de pointe que les Empires ne maitrisent plus. Nombreuses sont aussi leurs technologies qui nous sont encore inconnues. Il semblerait qu'aucun peuple n'ait encore pu dépasser leurs niveaux scientifiques et militaires. <br/>L'étude du savoir des Grands Sages permet de mieux maitriser certaines technologies dont ils sont à l'origine.]]></DES_ANCIENS2>
+<DES_GENI_GENETIQUE2><![CDATA[Les Empereurs n'ont cessé de rechercher un moyen de s'imposer militairement dans l'Univers. Bien que le nombre de soldats ait toujours été préféré à leur force, certains se sont aperçus que cela ne suffisait plus. Des chercheurs ont ainsi commencé à manipuler l'ADN humain afin de pouvoir créer de nouveaux soldats, génétiquement programmés pour le combat, et donc aux aptitudes physiques et intellectuelles plus performantes. En ouvrant la double hélice d'ADN, il est possible d'ajouter ou supprimer des informations. Des soldats prédisposés pour le combat peuvent être créés : dénués des gènes codant pour l'adrénaline ou encore la peur, ces soldats ne failliront pas à leur mission.]]></DES_GENI_GENETIQUE2>
+<DES_NANO_TECH2><![CDATA[Les chercheurs se sont vite aperçus que la manipulation de l'ADN avait ses limites. Non seulement les méthodes de modification de l'ADN sont compliquées, mais la durée de vie des organismes modifiés est réduite au minimum et ne permettent pas d'atteindre les buts espérés par les Grands Empires. Un groupe de chercheurs s'est alors penché sur la nanotechnologie : la science permettant de créer des robots de la taille du nanomètre. Les chercheurs ont alors entrepris d'utiliser la nanotechnologie pour concevoir de nouvelles machines de guerre plus puissantes et disposant pour certaines de l'intelligence artificielle !]]></DES_NANO_TECH2>
+<DES_TELEPORTATION2><![CDATA[La technologie de téléportation permet de téléporter n'importe quel individu ou objet dans un certain rayon à partir de sa source. La téléportation est comparable au système de transport des Portails Spatiaux. Elle scanne et démolécularise la cible (ce qui provoque un flash d'une lumière blanche intense, suivi de la disparition de la cible). La cible est ensuite remolécularisée dans la zone voulue. Ce type de téléporteur peut être contrôlé par une personne ou être automatisé. La téléportation est généralement le signe d'une maitrise technologie importante que seuls les très grands Empires possèdent.]]></DES_TELEPORTATION2>
+</technologies>
+<spe>
+<APPAREILS_SPE>Appareils spécialisés</APPAREILS_SPE>
+<APPAREILS_TERRESTRES>Appareils terrestres</APPAREILS_TERRESTRES>
+<BOMBES>Bombes</BOMBES>
+<SONDES_TERRESTRE_AERIENNE>Sondes</SONDES_TERRESTRE_AERIENNE>
+<VAISSEAUX_RUINES>Vaisseaux ruines</VAISSEAUX_RUINES>
+<PETIT_REMORQUEUR>Petit Remorqueur</PETIT_REMORQUEUR>
+<GD_REMORQUEUR>Grand Remorqueur</GD_REMORQUEUR>
+<MALP>I.P.E.R</MALP>
+<SONDES_WRAITH>Sonde Spatiale</SONDES_WRAITH>
+<PROTO_VX_RUINES>Prototype Vaisseau Ruines</PROTO_VX_RUINES>
+<X303_VX_RUINES>Vaisseau Ruines : RC-1</X303_VX_RUINES>
+<BOMBE_NUCLEAIRE>Bombe Nucléaire</BOMBE_NUCLEAIRE>
+<BOMBE_PLASMA>Bombe Plasma</BOMBE_PLASMA>
+<BOMBE_NAQUADAH>Bombe Electromagnétique</BOMBE_NAQUADAH>
+<X303A_VX_RUINES>Vaisseau Ruines : RC-2</X303A_VX_RUINES>
+<BOMBE>Bombe</BOMBE>
+<DES_MALP>L'I.P.E.R est un petit robot capable de traverser la porte des étoiles et de fournir des informations sur la planète où il échoue. Il permet de mieux connaître la planète visée. C'est le type d'espionnage le plus souvent utilisé, pourtant face à de grands Empires il est quasi inefficace.</DES_MALP>
+<DES_PETIT_REMORQUEUR>Le petit remorqueur est un véhicule dont le but est exclusivement de pouvoir traverser rapidement et facilement le portail spatial pour y emporter du matériel, et principalement les ressources. </DES_PETIT_REMORQUEUR>
+<DES_GD_REMORQUEUR>Le grand remorqueur est l'amélioration du petit remorqueur. Comme son frère, il n'est utilisable que pour transporter des ressources via la portail spatial. Il a été modifié pour transporter plus de ressources, ce qui l'a rendu plus lent.</DES_GD_REMORQUEUR>
+<DES_SONDES_WRAITH>Les I.P.E.R se sont trouvés relativement inefficaces pour un espionnage précis et utile. Aussi, les chercheurs ont développé des sondes spatiales, capables de traverser l'espace très rapidement et ramener des informations. Avec des réacteurs puissants, sur une coque très très légère, une sonde spatiale peut en effet aller très vite. Cependant, elle sera très rapidement détruite si elle est repérée.</DES_SONDES_WRAITH>
+<DES_PROTO_VX_RUINES>Certains Empires se sont mis à chercher un moyen de récupérer les débris de vaissaeux détruits pour les réutiliser. Les champs de ruines étant dangereux, les chercheurs ont donc dû mettre au point un vaisseau très résistant et avec un fret important.</DES_PROTO_VX_RUINES>
+<DES_X303_VX_RUINES>Basé sur une infrastructure spécialement conçue pour lui, ce Vaisseau Ruines RC-1 possède les dernières découvertes technologies disponibles. Son bouclier puissant et beaucoup plus résistant et permet de gagner du fret.</DES_X303_VX_RUINES>
+<DES_X303A_VX_RUINES>Certains chercheurs ont voulu utiliser l'infrastructure des croiseurs afin de créer un nouveau type de vaisseaux ruines : le RC-2. Ce dernier possède des moteurs plus rapides et un fret plus conséquent.</DES_X303A_VX_RUINES>
+<DES_BOMBE_NUCLEAIRE>Avec un fort taux de radiation, cette bombe est très puissante et permet de détruire rapidement une cible. Cependant, celle-ci nécessite un conteneur important ce qui la rend moins efficace au combat.</DES_BOMBE_NUCLEAIRE>
+<DES_BOMBE_PLASMA>Le plasma est une parmi les technologies connues les plus évoluées. Elle a permis la fabrication d'une bombe plus puissante que les bombes nucléaires et très pratique à manier.</DES_BOMBE_PLASMA>
+<DES_BOMBE_NAQUADAH>La Bombe Electromagnétique permet de saboter un vaisseau afin provoquer des explosions dans différentes parties du vaisseaux en même temps.</DES_BOMBE_NAQUADAH>
+</spe>
+<defenses>
+<MARK_I>Tour de Combat</MARK_I>
+<MARK_II>Lanceur de Missiles</MARK_II>
+<CANON_LASER>Canon Laser</CANON_LASER>
+<GD_CANON_LASER>Grand Canon Laser</GD_CANON_LASER>
+<RAYON_TRACTEUR>Rayon Tracteur</RAYON_TRACTEUR>
+<SAT_IONS>Satellite à Ions</SAT_IONS>
+<DEF_ELECTRO>Batterie Electromagnétique</DEF_ELECTRO>
+<CANON_PLASMA>Canon à Plasma</CANON_PLASMA>
+<CANON_NAQUADAH>Canon Electromagnétique</CANON_NAQUADAH>
+<BOMBE_H>Silos à Missiles HEM</BOMBE_H>
+<SAT_ANCIENS>Complexe de Défense Orbital</SAT_ANCIENS>
+<DRONE>Missile d'Interception Intelligent</DRONE>
+<DES_MARK_I>Les tours de combat sont le premier type de défense créé. Composé d'un armement simple, les tours de combat, bien qu'efficaces contre des attaques de très petite envergure, sont très vite dépassées.</DES_MARK_I>
+<DES_MARK_I2>Les tours de combat sont le premier type de défense créé. Composé d'un armement simple, les tours de combat, bien qu'efficaces contre des attaques de très petite envergure, sont très vite dépassées.</DES_MARK_I2>
+<DES_MARK_II>L'avènement de vaisseaux de grandes tailles posa quelques difficultés aux défenses traditionnelles qui ne permettaient pas de leur faire suffisamment de dégâts. Les chercheurs se sont alors repenchés sur les systèmes de missiles conventionnels.</DES_MARK_II>
+<DES_MARK_II2>L'avènement de vaisseaux de grandes tailles posa quelques difficultés aux défenses traditionnelles qui ne permettaient pas de leur faire suffisamment de dégâts. Les chercheurs se sont alors repenchés sur les systèmes de missiles conventionnels. Ceux-ci, enrichie à l'hydrogène, pouvaient donner une puissance de frappe importante et capable d'inquiéter les vaisseaux. Des lanceurs de missiles ont alors été développés pour permettre à ces missiles d'atteindre des cibles à très haute altitude.</DES_MARK_II2>
+<DES_CANON_LASER>Ce système défensif, basé sur la concentration d'énergie (ici, du laser), est capable de faire des dégâts importants et traverser les coques fines. Ce système encore basique, bien que plus résistant qu'une tour de combat, reste peu efficace contre les vaisseaux.</DES_CANON_LASER>
+<DES_GD_CANON_LASER>Le développement des connaissances dans la maîtrise de l'énergie a permis d'améliorer les canons laser. Les grands canons laser concentrent beaucoup plus d'énergie et sont capables de percer des blindages plus épais que le canon laser simple, ce qui en fait une arme de défense très utilisée dans les Empires moyens.</DES_GD_CANON_LASER>
+<DES_RAYON_TRACTEUR>Une nouvelle orientation a été opérée dans les systèmes de défense : en effet, le but n'est plus, ici, d'arriver à percer une coque ou un bouclier, mais d'attirer le vaisseau à l'aide d'un puissant rayon électromagnétique afin qu'il s'écrase. Avec la vitesse, le choc désintègre le vaisseau sans besoin d'une force extérieure.</DES_RAYON_TRACTEUR>
+<DES_RAYON_TRACTEUR2>Une nouvelle orientation a été opérée dans les systèmes de défense : en effet, le but n'est plus, ici, d'arriver à percer une coque ou un bouclier, mais d'attirer le vaisseau à l'aide d'un puissant rayon électromagnétique afin qu'il s'écrase. Avec la vitesse, le choc désintègre le vaisseau sans besoin d'une force extérieure. Cependant, le rayon tracteur n'est efficace que sur les petits vaisseaux.</DES_RAYON_TRACTEUR2>
+<DES_SAT_IONS>Les vaisseaux devenant de plus en plus puissants et de plus en plus difficiles à détruire, des chercheurs ont eu l'idée de les neutraliser en coupant momentanément leur armements, boucliers, réacteurs et tout système électronique, grâce à des décharges ioniques. Placés dans des satellites en orbites, ces armes peuvent neutraliser les vaisseaux, dès leur arrivée à proximité de la planète.</DES_SAT_IONS>
+<DES_SAT_IONS2>Les vaisseaux devenant de plus en plus puissants et de plus en plus difficiles à détruire, des chercheurs ont eu l'idée de les neutraliser en coupant momentanément leur armements, boucliers, réacteurs et tout système électronique, grâce à des décharges ioniques. Placés dans des satellites en orbites, ces armes peuvent neutraliser les vaisseaux, dès leur arrivée à proximité de la planète. Il est ainsi très fréquent que les vaisseaux s'écrasent sur la planète, attirés par la gravité qu'ils ne peuvent pas contrer. Si ce n'est pas le cas, les autres systèmes de défense peuvent, sans problème, détruire le vaisseau inactif.</DES_SAT_IONS2>
+<DES_DEF_ELECTRO>Plus concentrés, les ions sont aussi capables de percer les coques, plus facilement que les canons laser. Les chercheurs ont, alors, cherché à concentrer davantage l'énergie ionique et la canaliser dans une arme. Munie d'une coque résistante et plus compacte, la batterie électromagnétique est un système de défense des plus performants.</DES_DEF_ELECTRO>
+<DES_CANON_PLASMA><![CDATA[Le canon à plasma est la combinaison de deux types de rayons énergétiques : le laser et l'ion. <br>Le plasma ainsi formé possède une force de frappe beaucoup plus importante capable de pénétrer de gros boucliers et de faire, ainsi, beaucoup de dégâts en peu de tirs.]]></DES_CANON_PLASMA>
+<DES_CANON_PLASMA2><![CDATA[Le canon à plasma est la combinaison de deux types de rayons énergétiques : le laser et l'ion. <br>Le plasma ainsi formé possède une force de frappe beaucoup plus importante capable de pénétrer de gros boucliers et de faire, ainsi, beaucoup de dégâts en peu de tirs. Cependant, la complexité de l'installation rend son utilisation fragile.]]></DES_CANON_PLASMA2>
+<DES_CANON_NAQUADAH>Résultat d'avancées technologiques majeures dans le domaine de l'électromagnétisme et d'un contrôle accru de l'hydrogène, le canon électromagnétique est l'une des défenses terrestres la plus aboutie.</DES_CANON_NAQUADAH>
+<DES_CANON_NAQUADAH2>Résultat d'avancées technologiques majeures dans le domaine de l'électromagnétisme et d'un contrôle accru de l'hydrogène, le canon électromagnétique est l'une des défenses terrestres la plus aboutie. Extrêmement maniable, elle est très efficace pour détruire des chasseurs, mais sa puissance lui permet aussi de transpercer des coques très épaisses et d'endommager sérieusement des boucliers.</DES_CANON_NAQUADAH2>
+<DES_BOMBE_H>Après la découverte du canon électromagnétique, les scientifiques ne pensaient plus trouver de meilleurs systèmes défensifs, basés sur l'énergie. Ils se tournèrent alors de nouveau vers des ogives nucléaires enrichies couplées à un impulseur électromagnétique (Ogive Hydrogène ElectroMagnétique ou Ogive HEM).</DES_BOMBE_H>
+<DES_BOMBE_H2>Après la découverte du canon électromagnétique, les scientifiques ne pouvaient plus trouver de meilleurs systèmes défensifs, basés sur l'énergie. Ils se tournèrent alors de nouveau vers des ogives nucléaires enrichies couplées à un impulseur électromagnétique (Ogive Hydrogène ElectroMagnétique ou Ogive HEM). Leur extrêmement grande puissance explosive est capable d'endommager gravement, voir de détruire, n'importe quel type de vaisseau et, ceci, en un seul coup. Cependant, comme tous missiles, ce système est caractérisé aussi par sa lenteur, l'obligeant à attaquer des cibles peu mobiles. De plus, sa taille imposante le rend très vulnérable aux petits vaisseaux rapides que les missiles ne peuvent viser.</DES_BOMBE_H2>
+<DES_SAT_ANCIENS>Qualifié par beaucoup comme la défense ultime, le complexe de défense orbitale est le système défensif le plus avancé jamais inventé, digne des plus grandes inventions des Grands Sages.</DES_SAT_ANCIENS>
+<DES_SAT_ANCIENS2>Qualifié par beaucoup comme la défense ultime, le complexe de défense orbitale est le système défensif le plus avancé jamais inventé, digne des plus grandes inventions des Grands Sages. Doté d'une coque ultra-résistante renforcée de boucliers autoalimentés, il est ,de plus, équipé d'un rayon électromagnétique extrêmement puissant permettant des tirs d'une puissance dévastatrice.</DES_SAT_ANCIENS2>
+<DES_DRONE>Défense d'un nouveau genre, le missile d'interception automatique est le système de défense le plus intelligent jamais inventé, il est capable de localiser et d'anéantir toute cible à sa portée.</DES_DRONE>
+<DES_DRONE2>Défense d'un nouveau genre, le missile d'interception automatique est le système de défense le plus intelligent jamais inventé, il est capable de localiser et d'anéantir toute cible à sa portée. Son effet destructeur est renforcé par la possibilité de pouvoir en lancer plusieurs centaines en une fois. Un seul drone peut en effet faire de grands dommages. Sa maniabilité en fait une arme qui ne peut être détournée, et qui atteint donc toujours sa cible. Cependant, étant une arme à projectile, elle ne peut être réutilisée. Ces caractéristiques si particulières en font une arme très coûteuse.</DES_DRONE2>
+</defenses>
+<composants>
+<COMPOSANTS>Composants</COMPOSANTS>
+<INFRASTRUCTURES>Infrastructures</INFRASTRUCTURES>
+<REACTEURS>Réacteurs</REACTEURS>
+<BOUCLIERS>Boucliers</BOUCLIERS>
+<ARMES>Armes</ARMES>
+<COQUES>Coques</COQUES>
+<CAMOUFLEURS>Occulteurs</CAMOUFLEURS>
+<EQUIP_TRANSPORT>Transporteurs</EQUIP_TRANSPORT>
+<X_302>Infrastructure de Chasseur</X_302>
+<CARGO>Infrastructure de Chasseur Lourd</CARGO>
+<ALKESH>Infrastructure de Vaisseau Cargo</ALKESH>
+<X_303>Infrastructure de Bombardier</X_303>
+<HATAK>Infrastructure de Croiseur</HATAK>
+<VX_ANCIEN>Infrastructure de Croiseur des Grands Sages</VX_ANCIEN>
+<VX_ORI>Infrastructure de Croiseur Antimatière</VX_ORI>
+<VX_WRAITH>Infrastructure de Croiseur Organique</VX_WRAITH>
+<COMBUSTION_PRIMI>Réacteur à Combustion Primitive</COMBUSTION_PRIMI>
+<COMBUSTION_AMELIORE>Réacteur à Combustion Améliorée</COMBUSTION_AMELIORE>
+<SUBLUMINIQUE_IMPUL>Réacteur SubLuminique Ionique</SUBLUMINIQUE_IMPUL>
+<SUBLUMINIQUE_ASGA>Réacteur SubLuminique à Fusion</SUBLUMINIQUE_ASGA>
+<HYPERSPATIAL_WRAITH>Réacteur à Antimatière</HYPERSPATIAL_WRAITH>
+<HYPERSPATIAL_GOA>Réacteur à Antigravité</HYPERSPATIAL_GOA>
+<HYPERNAVI_ASGA>Réacteur Hyperpropulseur</HYPERNAVI_ASGA>
+<HYPERNAVI_ANCI>Réacteur de type Stardrive</HYPERNAVI_ANCI>
+<BOUCLIER_GOA>Petit Bouclier</BOUCLIER_GOA>
+<BOUCLIER_ASGA>Champ de Force</BOUCLIER_ASGA>
+<BOUCLIER_ANCI>Bouclier Déflecteur</BOUCLIER_ANCI>
+<BOUCLIER_ANUB>Bouclier des Croisés</BOUCLIER_ANUB>
+<BOUCLIER_ATL>Bouclier Antimatière</BOUCLIER_ATL>
+<MARKIII>Missiles</MARKIII>
+<MARKIII_NAQUA>Missiles Enrichis</MARKIII_NAQUA>
+<ARME_LASER>Canon Laser</ARME_LASER>
+<CANON_LASER>Canon Laser</CANON_LASER>
+<LASER_RENFO>Batterie Laser Renforcée</LASER_RENFO>
+<IONS_GOA>Canon à Ions</IONS_GOA>
+<ELECTRO>Canon Electromagnétique</ELECTRO>
+<CANON_PLASMA>Canon à Plasma</CANON_PLASMA>
+<PLASMA_ANCI>Lanceur de Plasma Avancé</PLASMA_ANCI>
+<NUCLEAIRE_NAQUA>Missiles Nucléaire</NUCLEAIRE_NAQUA>
+<CANON_NAQUA>Rayon Electromagnétique</CANON_NAQUA>
+<BOMBE_NAQUADRIA>Bombes à Impulsion</BOMBE_NAQUADRIA>
+<LANCEUR_DRONES>Arme des Grands Sages</LANCEUR_DRONES>
+<COQUE_SIMPLE>Coque Simple</COQUE_SIMPLE>
+<COQUE_GOA>Coque Blindée</COQUE_GOA>
+<COQUE_WRAITH>Coque Moléculaire</COQUE_WRAITH>
+<COQUE_ASGA>Coque des Croisés</COQUE_ASGA>
+<COQUE_ANCI>Coque Organique</COQUE_ANCI>
+<OCULTEUR_GOA>Occulteur des Croisés</OCULTEUR_GOA>
+<OCULTEUR_ANCI>Occulteur des Grands Sages</OCULTEUR_ANCI>
+<ANNEAUX>Arche de Sauvetage</ANNEAUX>
+<TELEPORTEURS>Téléporteurs</TELEPORTEURS>
+</composants>
+<militaires>
+<ASHRAK>Agent Secret</ASHRAK>
+<SKULL>Soldat Droïde</SKULL>
+<ORI>Androïde de Combat</ORI>
+<ASSURAN>NanoSoldat</ASSURAN>
+<SOLDAT>Soldats</SOLDAT>
+<COLONEL>Colonels</COLONEL>
+<MECANICIEN>Techniciens</MECANICIEN>
+<EXPERT>Experts</EXPERT>
+<ESPION>Espions</ESPION>
+<KAMIKAZ>Kamikazes</KAMIKAZ>
+<MARINES>Marines</MARINES>
+<JAFFA>Unité d'Elite</JAFFA>
+<WRAITH>BioSoldat</WRAITH>
+<DES_ASHRAK><![CDATA[Les agents secrets sont des assassins d'élite, entraîné pour éliminer une personne,<br /> généralement quelqu'un d'important, de haut rang, <br />tout en ne laissant aucune trace grâce à des technologies de pointe]]></DES_ASHRAK>
+<DES_SKULL><![CDATA[Les soldats droïde sont des soldats conçu génétiquement <br />dans le but de créer une armée nombreuse et sans faiblesse.]]></DES_SKULL>
+<DES_ORI><![CDATA[Les androïde de combat possède une coque blindé capable de résister à de grosses attaques.]]></DES_ORI>
+<DES_ASSURAN><![CDATA[Les NanoSoldats sont des soldats génétiquement modifié <br />grâce à des nanites qui leur confère la capacité de se soigner très rapidement.]]></DES_ASSURAN>
+<DES_SOLDAT><![CDATA[Les soldats sont les unités de base pour les combats. <br />C'est aussi eux qui sont en charge de faire fonctionner les défenses, lorsque vous en avez besoin.]]></DES_SOLDAT>
+<DES_COLONEL><![CDATA[Les équipages de vos vaisseaux ont besoin d'être dirigé par des colonnels pour suivre vos ordres.]]></DES_COLONEL>
+<DES_MECANICIEN><![CDATA[Vous avez besoin des mécaniciens pour utiliser les vaisseaux. <br />En effet, leur principale mission est de réparer votre flotte dès qu'elle est à quai.]]></DES_MECANICIEN>
+<DES_EXPERT><![CDATA[Les experts gèrent la puissance de vos vaisseaux. <br />Grâce à leur savoir, ils peuvent aussi apporter des bonus sur les boucliers.]]></DES_EXPERT>
+<DES_ESPION><![CDATA[Recrutez des espions afin d'inflistrer vos ennemis <br />et de récupérer de nombreuses informations qui vous serviront à préparer vos attaques.]]></DES_ESPION>
+<DES_KAMIKAZ><![CDATA[Les kamikaz sabotent les évolutions, le carburant et les défenses des empires ennemis.]]></DES_KAMIKAZ>
+<DES_MARINES><![CDATA[Ces unités sont spécialisées dans le combat rapproché et stratégique.]]></DES_MARINES>
+<DES_JAFFA><![CDATA[Les unités d'élites sont les membres de l'armée envoyés <br />pour effectuer des assauts coordonnées sur des objectifs précis.]]></DES_JAFFA>
+<DES_WRAITH><![CDATA[Les bioSoldats sont des armes de guerre bio-construites en laboratoire, grandes et incroyablement musclées. <br />Nominalement humains, les bio-soldats furent créés dans les années 2000 par les Humains grâce au génie génétique, <br />pour lutter contre les envahisseurs extraterrestres.]]></DES_WRAITH>
+</militaires>
+<achats>
+<EPPZ>Cellules Energétiques</EPPZ>
+<IRIS>Verrou Magnétique</IRIS>
+<IRIS_DESC><![CDATA[Le verrou magnétique est un système à usage unique empêchant le passage à travers le Portail de tout élément biologique provenant de planètes hostiles : tout élément tentant de traverser le Portail restera alors bloqué du côté de la planète d’origine et ne pourra pas accéder à votre planète. Un verrou magnétique permet ainsi de bloquer une attaque par le Portail.]]></IRIS_DESC>
+<MODE_ANCIEN>Mode Ancien</MODE_ANCIEN>
+<TXT_INTRO_MOD_ANCIEN><![CDATA[Mode Premium :<br /><br />Le Mode Premium est un mode spécial de Star Game Return. Celui-ci vous propose des interfaces plus lisibles, pratiques ainsi que d'autres options.<br />Le Mode Premium coûte 1 Crédit et a une validité de 15 jours.<br /><br /><br />Il comprend :<br />- Une liste de construction de 5 bâtiments.<br />- L'affichage de la durée d'attente avant de pouvoir effectuer la construction d'un bâtiment ou d'une technologie (en cas de manque de ressources).<br />- Une vue de tout votre Empire.<br />- L'augmentation de la durée de conservation de vos messages.<br />- Le contrôle de 2 flottes supplémentaires.<br />- L'envoi des vaisseaux ruines et des sondes depuis les capteurs interstellaires.<br />- Le nombre de flottes encore disponibles visible dans les capteurs interstellaires.<br />- La possibilité de gérer et d'ordonner vos planètes comme vous le souhaitez.<br />- Une liste de favoris des planètes amies et ennemies.]]></TXT_INTRO_MOD_ANCIEN>
+</achats>
+<capteurs>
+<ENVOI_MALP>Envoyer un I.P.E.R</ENVOI_MALP>
+<ENVOI_SWRAITH>Envoyer une Sonde Spatiale</ENVOI_SWRAITH>
+<NO_MALP><![CDATA[Erreur : Vous n'avez pas de MALP sur cette planète.]]></NO_MALP>
+<NO_SWRAITH><![CDATA[Erreur : Vous n'avez pas de Sonde Wraith sur cette planète.]]></NO_SWRAITH>
+</capteurs>
+<tutoriels>
+<GENERAL>Amiral Craig le Balafré</GENERAL>
+<ECONOMIE>Sharon Jones-Kalberg</ECONOMIE>
+<SCIENTIFIQUE>Professeur Aaron Falsky</SCIENTIFIQUE>
+<DIVERS>Untie-Dott</DIVERS>
+</tutoriels>
+<flotte>
+<PASSER_PAR_SUPERPORTE>Passer par l'Arche Quantique</PASSER_PAR_SUPERPORTE>
+<MISSION_SUPERPORTE>Installer l'Arche Quantique</MISSION_SUPERPORTE>
+<REQUIS_SUPERPORTE>Prérequis de l'Arche Quantique</REQUIS_SUPERPORTE>
+<SUPER_PORTE>Arche Quantique</SUPER_PORTE>
+<SUPER_PORTE_DESC><![CDATA[L'Arche Quantique est une innovation des ingénieurs des Croisés. Basé sur une technologie similiaire à celle des Grands Sages, du fait de leur passé commun, les Croisés ont mis au point un « Portail Spatial Géant » permettant de faire traverser des vaisseaux spatiaux au travers.
+De par sa taille phénoménale (plus d'1km de diamètres), l'Arche  doit être acheminée élément par élément. Il y en a en tout 90, devant être ensuite assemblé. Cette chaîne d'éléments est  ensuite interconnectée et flotte dans l'espace.<br/>
+Fonctionnant comme tous les Portails Spatiaux classiques, il en faut deux pour l'activer : une au départ et une à l'arrivée. L'Arche Quantique des Croisés possède une double particularité : non seulement elle est faite pour permettre le voyage quasi instantané de vaisseaux spatiaux de la taille de vaisseaux amiraux, mais surtout, de les faire passer d'une galaxie à l'autre.
+Cette dernière particularité nécessite une quantité considérable d'énergie, fournie par des Cellules Energétiques.]]></SUPER_PORTE_DESC>
+<PLANETE_NON_SUPERPORTE>La planète de destination n'a pas de l'Arche Quantique</PLANETE_NON_SUPERPORTE>
+</flotte>
+<techrare>
+<ELEMENT_SUPERPORTE>Elément de l'Arche Quantique</ELEMENT_SUPERPORTE>
+</techrare>
+</langues>

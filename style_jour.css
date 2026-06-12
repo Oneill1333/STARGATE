@@ -1,0 +1,11 @@
+html {
+	font-family: Calibri;
+	margin: 0;
+	padding: 0;
+	background: black url('images/background_day.jpg') no-repeat center fixed;
+	-webkit-background-size:cover;
+	-o-background-size:cover;
+	-moz-background-size:cover;
+	background-size:cover;
+	behavior:url(scripts/pie.htc);
+}

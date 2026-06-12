@@ -1,0 +1,8 @@
+AddDefaultCharset UTF-8
+Options -Indexes
+
+<FilesMatch "\.(ttf|otf|woff)$">
+	<IfModule mod_headers.c>
+		Header set Access-Control-Allow-Origin "*"
+	</IfModule>
+</FilesMatch>

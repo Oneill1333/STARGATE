@@ -1,0 +1,203 @@
+.champsderuines {
+    background: url("images/capteur/champsDeRuines.png") no-repeat scroll center center transparent;
+    height: 60px;
+    width: 60px;
+}
+.orctb {
+    float: left;
+    height: 8px;
+    margin-top: -4px;
+    overflow: hidden;
+    width: 680px;
+}
+.orcth {
+    background-image: url("images/capteur/orch.png") !important;
+    height: 22px !important;
+    left: 0px;
+    padding: 3px 0 0;
+    position: relative;
+    top: 25px;
+    width: 680px;
+}
+.orcthma {
+    color: #E7E7E7;
+    display: inline;
+    font-size: 12px;
+    font-weight: bold;
+    height: 12px;
+    left: 200px;
+    margin: 0 5px 0 8px;
+    position: relative;
+    top: -4px;
+    width: auto;
+}
+.orcthmb {
+    display: inline;
+    height: 12px;
+    width: 35px;
+}
+.orcthmb input {
+    background-color: #C8C8C8;
+    border: 1px solid #8B8E91;
+    display: inline;
+    font-size: 12px;
+    font-weight: bold;
+    height: 16px;
+    left: 200px;
+    padding: 0 0 2px;
+    position: relative;
+    text-align: center;
+    top: -5px;
+    width: 35px;
+}
+.orcthmc {
+    display: inline;
+    height: 16px;
+    left: 220px;
+    margin: 1px 0 0;
+    position: relative;
+    width: 19px;
+}
+.orcthmc input {
+    border: medium none !important;
+}
+.orctmp {
+    height: 112px;
+    padding: 5px;
+    position: absolute;
+    right: 34px;
+    top: 554px;
+    width: 153px;
+    z-index: 10;
+}
+.cpover {
+    background: url("images/capteur/cpover.gif") no-repeat scroll 0 0 transparent;
+    height: 78px !important;
+    margin: 35px 0 0 115px;
+    padding: 2px 4px 0;
+    position: absolute;
+    width: 249px !important;
+    z-index: 1003;
+}
+.cpover .imgPlanete {
+    position: relative;
+    left: -9px;
+    top: 3px;
+}
+a.captico {
+    cursor: pointer;
+    display: block;
+    float: left;
+    height: 20px;
+    margin: 0px 10px 0 0;
+    width: 19px;
+    position: relative;
+    top: -3px;
+}
+a.captrecy {
+    background: url("images/capteur/5a.gif") repeat scroll 0 0 transparent;
+    margin-top: 6px;
+}
+a.captrecy:hover {
+    background: url("images/capteur/5b.gif") repeat scroll 0 0 transparent !important;
+}
+a.captiper {
+    background: url("images/capteur/3a.gif") repeat scroll 0 0 transparent;
+}
+a.captiper:hover {
+    background: url("images/capteur/3b.gif") repeat scroll 0 0 transparent !important;
+}
+a.captsonde {
+    background: url("images/capteur/2a.gif") repeat scroll 0 0 transparent;
+}
+a.captsonde:hover {
+    background: url("images/capteur/2b.gif") repeat scroll 0 0 transparent !important;
+}
+.clBulle {
+    margin: -50px 0 0 -220px;
+    position: absolute;
+}
+#capteursfix33 {
+	position:relative;
+    margin-left: 37px;
+    margin-top: -20px;
+}
+
+#capteursNum1, #capteursNum2, #capteursNum3, #capteursNum4, #capteursNum5, #capteursNum6, #capteursNum7, #capteursNum8, #capteursNum9, #capteursNum10 {
+    position: absolute;
+	opacity: .7;
+} 
+#capteursNum1 span.bulle, #capteursNum2 span.bulle, #capteursNum3 span.bulle, #capteursNum4 span.bulle, #capteursNum5 span.bulle, #capteursNum6 span.bulle, #capteursNum7 span.bulle, #capteursNum8 span.bulle, #capteursNum9 span.bulle, #capteursNum10 span.bulle {
+    background: black url(images/bg_bloc.jpg) repeat left top;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+	-moz-border-radius:7px;
+	-webkit-border-radius:7px;
+	-o-border-radius:7px;
+	border-radius:7px;
+	-moz-box-shadow:0px 0px 15px #83dad6;
+	-webkit-box-shadow:0px 0px 15px #83dad6;
+	-o-box-shadow:0px 0px 15px #83dad6;
+	box-shadow:0px 0px 15px #83dad6;
+}
+#capteursNum5, #capteursNum7, #capteursNum9, #capteursNum10 {
+	width: 200px;
+	text-align: right;
+}
+#capteursNum5 span.bulle, #capteursNum7 span.bulle, #capteursNum9 span.bulle, #capteursNum10 span.bulle {
+	width: 100px;
+	text-align: right;
+}
+#capteursNum1 {
+    left: 125px;
+    top: 235px;
+}
+#capteursNum2 {
+    left: 277px;
+    top: 138px;
+}
+#capteursNum3 {
+    left: 490px;
+    top: 110px;
+}
+#capteursNum4 {
+    left: 130px;
+    top: 375px;
+}
+#capteursNum5 {
+    left: 30px;
+    top: 307px;
+}
+#capteursNum6 {
+    left: 460px;
+    top: 227px;
+}
+#capteursNum7 {
+    left: 5px;
+    top: 457px;
+}
+#capteursNum8 {
+    left: 415px;
+    top: 440px;
+}
+#capteursNum9 {
+    left: 300px;
+    top: 385px;
+}
+#capteursNum10 {
+    left: 385px;
+    top: 280px;
+}
+#legende {
+    background-color: black;
+    border: 2px solid #334247;
+    height: 20px;
+    left: 626px;
+    opacity: 0.8;
+    position: absolute;
+    text-align: center;
+    top: 513px;
+    width: 50px;
+}
